@@ -13,6 +13,7 @@ File: frogger.py
                  respectively) and 'j' for the
                  frog to jump to a diagonally
                  adjacent spot.
+    Note: Meant to be used with game1.frog, game2.frog and game3.frog.
     Given Score: 80/105
 """
 import os
